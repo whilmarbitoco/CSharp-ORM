@@ -1,3 +1,4 @@
+namespace ORM.Model {
 
 public class User : Model<User> {
 
@@ -25,4 +26,5 @@ public class User : Model<User> {
     }
 
 
+}
 }

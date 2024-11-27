@@ -1,4 +1,5 @@
-public class Model<T> where T : Model<T> {
+namespace ORM.Model {
+    public class Model<T> where T : Model<T> {
 
     protected List<T> model;
     protected String? modelName;
@@ -46,4 +47,5 @@ public class Model<T> where T : Model<T> {
         return (int)((int) model.Count + (0.5 * model.Count));
     }
 
+}
 }

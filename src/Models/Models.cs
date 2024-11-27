@@ -1,9 +1,12 @@
-public class Models {
+namespace ORM.Model {
 
+    public class Models {
     public User MUser{get;set;}
 
     public Models() {
         MUser = new User();
     }
+
+}
 
 }

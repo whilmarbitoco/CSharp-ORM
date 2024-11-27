@@ -12,3 +12,4 @@
 /home/wb2c0/projects/Csharp/orm/src/obj/Debug/net8.0/src.pdb
 /home/wb2c0/projects/Csharp/orm/src/obj/Debug/net8.0/src.genruntimeconfig.cache
 /home/wb2c0/projects/Csharp/orm/src/obj/Debug/net8.0/ref/src.dll
+/home/wb2c0/projects/Csharp/orm/src/obj/Debug/net8.0/src.sourcelink.json

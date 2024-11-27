@@ -1,4 +1,6 @@
-﻿using System;
+﻿using ORM.Model;
+
+namespace ORM {
 class Program {
     static void Main() {
         Models models = new Models();
@@ -17,5 +19,7 @@ class Program {
         }
        
     }
+
+}
 
 }
