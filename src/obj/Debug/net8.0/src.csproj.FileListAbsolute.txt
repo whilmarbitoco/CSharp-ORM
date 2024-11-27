@@ -1,0 +1,14 @@
+/home/wb2c0/projects/Csharp/orm/src/bin/Debug/net8.0/src
+/home/wb2c0/projects/Csharp/orm/src/bin/Debug/net8.0/src.deps.json
+/home/wb2c0/projects/Csharp/orm/src/bin/Debug/net8.0/src.runtimeconfig.json
+/home/wb2c0/projects/Csharp/orm/src/bin/Debug/net8.0/src.dll
+/home/wb2c0/projects/Csharp/orm/src/bin/Debug/net8.0/src.pdb
+/home/wb2c0/projects/Csharp/orm/src/obj/Debug/net8.0/src.GeneratedMSBuildEditorConfig.editorconfig
+/home/wb2c0/projects/Csharp/orm/src/obj/Debug/net8.0/src.AssemblyInfoInputs.cache
+/home/wb2c0/projects/Csharp/orm/src/obj/Debug/net8.0/src.AssemblyInfo.cs
+/home/wb2c0/projects/Csharp/orm/src/obj/Debug/net8.0/src.csproj.CoreCompileInputs.cache
+/home/wb2c0/projects/Csharp/orm/src/obj/Debug/net8.0/src.dll
+/home/wb2c0/projects/Csharp/orm/src/obj/Debug/net8.0/refint/src.dll
+/home/wb2c0/projects/Csharp/orm/src/obj/Debug/net8.0/src.pdb
+/home/wb2c0/projects/Csharp/orm/src/obj/Debug/net8.0/src.genruntimeconfig.cache
+/home/wb2c0/projects/Csharp/orm/src/obj/Debug/net8.0/ref/src.dll
