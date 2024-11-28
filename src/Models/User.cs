@@ -13,18 +13,5 @@ public class User : Model<User> {
         Name = name;
         Email = email;
     }
-
-    public User? getByEmail(String email) {
-
-        foreach(User user in model) {
-            if(user.Email == email) {
-                return user;
-            }
-        }
-
-        return null;
-    }
-
-
 }
 }
